@@ -1429,6 +1429,14 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+    "Snapchat": {
+    "errorType": "status_code",
+    "rank": 76466,
+    "url": "https://accounts.snapchat.com/{}",
+    "urlMain": "https://accounts.snapchat.com/{}",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "SoundCloud": {
     "errorType": "status_code",
     "rank": 82,
